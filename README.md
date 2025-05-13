@@ -30,4 +30,4 @@ All psychophysical task code was run on a MacBook Pro with an Intel chip using M
 
 2) To participate in a task, download the psychophysical script and corresponding tone generating function. Make sure that `iso226.m` and the corresponding data folder are also in the working folder. Run the psychophysical script, and enter a subject name of choice. Follow the task instructions until it concludes.
    
-3) To analyze psychophysical data from the original experiments, download the `.mat` files for all the participants through Dryad [INSERT LINK HERE; TO-DO]. Add the `.mat` files to the corresponding data folder and run the corresponding analysis script.
+3) To analyze psychophysical data from the original experiments, use Dryad [INSERT LINK HERE; TO-DO] to download the corresponding data folder for each experiment, which contains the `.mat` files for all the participants for a particular experiment. Make sure that the analysis script is in the same folder as the data before running the script.
