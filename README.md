@@ -11,13 +11,13 @@ Code for generating stimuli and analyzing data related to human auditory correla
 
 **pipDeltaTimeExperiment**: contains the psychophysical script (`pipDeltaTime.m`), tone generating function (`pipDeltaTimeFunction.m`), and analysis code (`analyzePipDeltaTimeExperiment.m`) to generate **Figure 2c**. 
 
-**pipDeltaTimeSuppExperiment**: contains the psychophysical script (`pipDeltaTimeSupp.m`), tone generating function (`pipDeltaTimeSuppFunction.m`), and analysis code (`analyzePipDeltaTimeSuppExperiment.m`) to generate **Figure S2a,b**. 
+**pipDeltaTimeSuppExperiment**: contains the psychophysical script (`pipDeltaTimeSupp.m`), tone generating function (`pipDeltaTimeSuppFunction.m`), and analysis code (`analyzePipDeltaTimeSuppExperiment.m`) to generate **Figure S2a, b**. 
 
 **pipDeltaNoteExperiment**: contains the psychophysical script (`pipDeltaNote.m`), tone generating function (`pipDeltaNoteFunction.m`), and analysis code (`analyzePipDeltaNoteExperiment.m`) to generate **Figure 2d**. 
 
-**correlatedPipsExperiment**: contains the psychophysical script (`correlatedPips.m`), tone generating function (`correlatedPipsFunction.m`), and analysis code (`analyzeCorrelatedPipsExperiment.m`) to generate **Figure 2b,c**. 
+**correlatedPipsExperiment**: contains the psychophysical script (`correlatedPips.m`), tone generating function (`correlatedPipsFunction.m`), and analysis code (`analyzeCorrelatedPipsExperiment.m`) to generate **Figure 2b, c**. 
 
-**glidersExperiment**: contains the psychophysical script (`gliders.m`), tone generating function (`glidersFunction.m`), and analysis code (`analyzeGlidersExperiment.m`) to generate **Figure S3c,d**.
+**glidersExperiment**: contains the psychophysical script (`gliders.m`), tone generating function (`glidersFunction.m`), and analysis code (`analyzeGlidersExperiment.m`) to generate **Figure S3c, d**.
 
 **generalToneGeneration**: contains the tone generating function `generalToneGenerationFunction.m` for creating and listening to the tone types that were used in these experiments. [TO-DO]
 
