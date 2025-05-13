@@ -19,7 +19,7 @@ Code for generating stimuli and analyzing data related to human auditory correla
 
 **glidersExperiment**: contains the psychophysical script (`gliders.m`), tone generating function (`glidersFunction.m`), and analysis code (`analyzeGlidersExperiment.m`) to generate **Figure S3c, d**.
 
-**generalToneGeneration**: contains the tone generating function `generalToneGenerationFunction.m` for creating and listening to the tone types that were used in these experiments. [TO-DO]
+**generalToneGeneration**: contains the tone generating function `generalToneGenerationFunction.m` for creating and listening to the tone types that were used in these experiments.
 
 ## Specifications:
 All psychophysical task code was run on a MacBook Pro with an Intel chip using Matlab 2021b and Psychtoolbox.
