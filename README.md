@@ -1,7 +1,7 @@
 # humanAuditoryCorrelations
 Code for generating stimuli and analyzing data related to human auditory correlation sensitivity.
 
-## Each folder corresponds to a psychophysical task:
+## Folders:
 
 **ternaryExperiment**: contains the psychophysical script (`ternary.m`), tone generating function (`ternaryFunction.m`), and analysis code (`analyzeTernaryExperiment.m`) to generate **Figure 1c**. 
 
