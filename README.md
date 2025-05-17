@@ -30,7 +30,7 @@ All psychophysical task code was run on a MacBook Pro with an Intel chip using M
 
 ## Directions:
 
-1) Ensure that the above specifications are met.
+1) Check that the above specifications are met.
 
 2) To participate in a task, download the psychophysical script and corresponding tone generating function. Make sure that `iso226.m` and the corresponding data folder are also in the working folder. Run the psychophysical script, and enter a subject name of choice. Follow the task instructions until it concludes.
    
