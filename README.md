@@ -19,7 +19,7 @@ Code for generating stimuli and analyzing data related to human auditory correla
 
 **glidersExperiment**: contains the psychophysical script (`gliders.m`), tone generating function (`glidersFunction.m`), and analysis code (`analyzeGlidersExperiment.m`) to generate **Figure S3c, d**.
 
-**soundAnalysisCode**: contains the script `analyzeCorrelationsFunctionsFigure_final.m` to generate **Figure 5** and **S5**.
+**soundAnalysisCode**: contains the script `analyzeCorrelationsFunctionsFigure_final.m` to generate **Figures 5** and **S5**.
 
 **simulations**: contains scripts `simulateTrackingHeuristics.m`, `simulateMotionEnergyUnitResponsesSweep.m`, and `simulateMotionEnergyRespToAllStim.m` to generate **Figures S2c, d, S3a; 4a, b, c; S4a, b, c**, respectively. `makeRBcolormap.m` and `niceAxesLarge.m` are formatting helper functions that need to be in the working folder in order to run the scripts.
 
